@@ -14,4 +14,3 @@ Open `index.html` directly or run `serve.ps1`.
    - `git commit -m "init love page"`
    - `gh repo create <repo-name> --public --source . --remote origin --push`
 3. Enable Pages in repository settings (Deploy from branch `main` / root).
-
